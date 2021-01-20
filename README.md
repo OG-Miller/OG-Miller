@@ -6,9 +6,10 @@
 *** About Me: 
 
 I am a self-taught Frontend Developer with a background in Graphic Design.
+
 Get in touch if you'd like to collaborate on a project.
 
-*** My Design work:
+*** My Graphic Design work:
 
 https://dribbble.com/Dwam 
 
